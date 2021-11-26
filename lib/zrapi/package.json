@@ -1,0 +1,64 @@
+{
+  "_from": "zrapi@^0.0.6",
+  "_id": "zrapi@0.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-3LQ3Z5FeeecVX5IOJjNuppVkN9iQtczd2t5U3c8FPaAiflzz2kaNusQESphLiCmL+2hvrPyNuH7VNSIZhdSyow==",
+  "_location": "/zrapi",
+  "_phantomChildren": {
+    "asynckit": "0.4.0",
+    "combined-stream": "1.0.8",
+    "mime-types": "2.1.32"
+  },
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "zrapi@^0.0.6",
+    "name": "zrapi",
+    "escapedName": "zrapi",
+    "rawSpec": "^0.0.6",
+    "saveSpec": null,
+    "fetchSpec": "^0.0.6"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/zrapi/-/zrapi-0.0.6.tgz",
+  "_shasum": "56e41afd5f6b314d54dadb7a36aeeb4230975838",
+  "_spec": "zrapi@^0.0.6",
+  "_where": "/storage/emulated/0/BOT/ONE",
+  "author": {
+    "name": "Rizqi a.k.a ZefianAlfian"
+  },
+  "bugs": {
+    "url": "https://github.com/ZefianAlfian/z-rapi-module/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "cookie": "^0.4.1",
+    "form-data": "^4.0.0",
+    "instatouch": "^2.3.3",
+    "moment-timezone": "^0.5.33",
+    "node-fetch": "^2.6.1",
+    "paste.gg": "^1.0.3"
+  },
+  "deprecated": false,
+  "description": "api module",
+  "devDependencies": {},
+  "directories": {
+    "lib": "lib"
+  },
+  "homepage": "https://github.com/ZefianAlfian/z-rapi-module#readme",
+  "license": "MIT",
+  "main": "src/index.js",
+  "name": "zrapi",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZefianAlfian/z-rapi-module.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.6"
+}
